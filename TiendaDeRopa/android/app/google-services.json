@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469473061937",
+    "project_id": "tienda-de-ropa-225bb",
+    "storage_bucket": "tienda-de-ropa-225bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469473061937:android:06637d8a937c2ddf40b910",
+        "android_client_info": {
+          "package_name": "com.example.TiendaDeRopa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469473061937-tpmv6dlm8hgvh2j1unf5q18k84kbu97q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYezL95gkuoCMEXjDyIlO2qFVVauK9Ocw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469473061937-tpmv6dlm8hgvh2j1unf5q18k84kbu97q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
